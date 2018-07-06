@@ -1,7 +1,7 @@
 {
   "name": "reactnytimesscrubber",
   "version": "1.0.0",
-  "description": "",
+  "description": "This app is about using react and express router to work with \"mongodb\" and \"axios\" to get data from the NYTIMES API.",
   "main": "server.js",
   "scripts": {
     "server": "node server.js",
@@ -24,5 +24,13 @@
     "express": "^4.15.4",
     "moment": "^2.22.1",
     "mongoose": "^5.0.11"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ally0426/nytreact.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ally0426/nytreact/issues"
+  },
+  "homepage": "https://github.com/ally0426/nytreact#readme"
 }
